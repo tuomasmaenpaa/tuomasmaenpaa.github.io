@@ -1,5 +1,4 @@
-# Tuomas Mäenpää
-# Data Scientist
+
 ### Education
 ### Work Experience
 - Data Analyst at Wisesport
