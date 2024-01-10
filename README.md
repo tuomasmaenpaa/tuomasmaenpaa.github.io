@@ -1,3 +1,4 @@
+# Tuomas Mäenpää
 ### SUMMARY
 Dedicated and results-driven Data Analyst and Software Designer with proven expertise in collecting, analyzing, and interpreting complex datasets. Strong background in software design, proficient at developing innovative solutions to enhance data-driven insights and streamline processes. Enthusiastic about data visualization and adept at translating technical findings into actionable business recommendations. Possesses strong problem-solving skills and a keen eye for detail. Eager to contribute technical acumen and analytical skills to future data analysis challenges.
 
