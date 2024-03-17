@@ -36,7 +36,6 @@ Dedicated and results-driven Data Analyst and Software Designer with proven expe
 **Master of Science (Technology) | Tampere University | 09/2020 – Spring 2024**
 - Major: Signal Processing and Machine Learning
 - Minor studies in Software Development and Computational Biology.
-- Master’s thesis review process ongoing.
 
 **Bachelor of Science (Technology) | Tampere University | 08/2017 – 05/2020**
 - Major: Signal Processing and Machine Learning
