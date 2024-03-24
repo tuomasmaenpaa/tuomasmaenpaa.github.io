@@ -50,3 +50,8 @@ Dedicated and results-driven Data Analyst and Software Designer with proven expe
 **Head of Security | 2021 – 2022**
 - Organize the security for the World Championships of Academic kyykkä.
 - Lead a team of 40 security personnel on the day of the event.
+
+  ### THESIS
+  <video width="480" height="240" controls loop="" muted="" autoplay="">
+    <source src="https://github.com/tuomasmaenpaa/tuomasmaenpaa.github.io/raw/main/assets/thesis.mp4">
+  </video>
