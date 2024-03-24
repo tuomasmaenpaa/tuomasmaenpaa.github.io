@@ -6,7 +6,7 @@ and interpreting complex datasets, coupled with a strong background in software 
 
 ### SKILLS
 - **Programming Languages:** C#, Python, Matlab, SQL, C++, JavaScript, TypeScript, Java, R
-- **Technologies:** .Net, GCP, Docker, Git, PyTorch, Tensorflow, Pandas, React, Django
+- **Technologies:** .Net, GCP, Docker, Git, PyTorch, Tensorflow, Scikit-learn, Pandas, React, Django
 - **Languages:** Finnish - native, English - C1, Swedish - B1
 
 
