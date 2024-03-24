@@ -7,6 +7,18 @@ Dedicated and results-driven Data Analyst and Software Designer with proven expe
 - **Technologies:** .Net, GCP, Docker, Git, PyTorch, Tensorflow, Pandas, React, Django
 - **Languages:** Finnish - native, English - C1, Swedish - B1
 
+
+### THESIS
+
+  For my Master's thesis, I developed a machine learning based predictive model that predicts goal-scoring in ice hockey based on player positioning.
+  The model not only predicts if a goal is likely within the next 5 seconds but it also predicts where the attacking team should move the puck to maximize their
+  goal-scoring potential.
+  The video below demonstrates how the model works in a direct attacking play.
+  
+  <video width="480" height="240" controls loop="" muted="" autoplay="">
+    <source src="https://github.com/tuomasmaenpaa/tuomasmaenpaa.github.io/raw/main/assets/thesis.mp4">
+  </video>
+
 ### EXPERIENCE
 
 **Data Analyst & Software Designer | Wisesport Ltd | 06/22 – Present**
@@ -51,13 +63,3 @@ Dedicated and results-driven Data Analyst and Software Designer with proven expe
 - Organize the security for the World Championships of Academic kyykkä.
 - Lead a team of 40 security personnel on the day of the event.
 
-### THESIS
-
-  For my Master's thesis, I developed a machine learning based predictive model that predicts goal-scoring in ice hockey based on player positioning.
-  The model not only predicts if a goal is likely within the next 5 seconds but it also predicts where the attacking team should move the puck to maximize their
-  goal-scoring potential.
-  The video below demonstrates how the model works in a direct attacking play.
-  
-  <video width="480" height="240" controls loop="" muted="" autoplay="">
-    <source src="https://github.com/tuomasmaenpaa/tuomasmaenpaa.github.io/raw/main/assets/thesis.mp4">
-  </video>
