@@ -15,7 +15,7 @@ Dedicated and results-driven Data Analyst and Software Designer with proven expe
   goal-scoring potential.
   The video below demonstrates how the model works in a direct attacking play. Red color indicates an elevated scoring potential for that location.
   
-  <video width="480" height="240" controls loop="" muted="" autoplay="">
+  <video width="480*4" height="240*4" controls loop="" muted="" autoplay="">
     <source src="https://github.com/tuomasmaenpaa/tuomasmaenpaa.github.io/raw/main/assets/thesis.mp4">
   </video>
 
