@@ -1,6 +1,8 @@
 # Tuomas Mäenpää
 ### SUMMARY
-Dedicated and results-driven Data Analyst and Software Designer with proven expertise in collecting, analyzing, and interpreting complex datasets. Strong background in software design, proficient at developing innovative solutions to enhance data-driven insights and streamline processes. Enthusiastic about data visualization and adept at translating technical findings into actionable business recommendations. Possesses strong problem-solving skills and a keen eye for detail. Eager to contribute technical acumen and analytical skills to future data analysis challenges.
+Dedicated and results-driven Data Scientist and Software Designer with a proven expertise in collecting, analyzing,
+and interpreting complex datasets, coupled with a strong background in software design. Experienced in developing machine learning models and deploying them to production, demonstrating proficiency in MLOps. Enthusiastic about data visualization and adept at translating technical findings into actionable business recommendations. Possesses strong problem-solving skills and a keen eye for detail.
+
 
 ### SKILLS
 - **Programming Languages:** C#, Python, Matlab, SQL, C++, JavaScript, TypeScript, Java, R
@@ -20,11 +22,11 @@ Dedicated and results-driven Data Analyst and Software Designer with proven expe
 
 ### EXPERIENCE
 
-**Data Analyst & Software Designer | Wisesport Ltd | 06/22 – Present**
-- Transform tracking data into comprehensive sports statistics.
-- Manage the storage of sports-related data in a database.
-- Develop and implement efficient data retrieval processes from the database.
-- Summarize and distill sports data into reports, presenting key insights and trends.
+**Data Analyst & Software Developer | Wisesport Ltd | 06/22 – Present**
+- Develop algorithms and mathematical models to capture events from position data in real-time.
+- Deploy ML models to detect events in position data.
+- Use collected data to create analyses and automatic reports for users.
+- Work with PostgreSQL databases for database management.
 - Technologies: Python, C#, Git, GCP, Agile, CI/CD
 
 **Research Assistant (Computational Biology) | Tampere University | 09/20 – 05/22**
