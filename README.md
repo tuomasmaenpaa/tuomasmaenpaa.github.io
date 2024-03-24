@@ -8,7 +8,6 @@ Dedicated and results-driven Data Analyst and Software Designer with proven expe
 - **Languages:** Finnish - native, English - C1, Swedish - B1
 
 
-### THESIS
 
   For my Master's thesis, I developed a machine learning based predictive model that predicts goal-scoring in ice hockey based on player positioning.
   The model not only predicts if a goal is likely within the next 5 seconds but it also predicts where the attacking team should move the puck to maximize their
